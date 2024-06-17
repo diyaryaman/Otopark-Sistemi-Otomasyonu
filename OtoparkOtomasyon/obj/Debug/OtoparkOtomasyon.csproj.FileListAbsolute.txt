@@ -1,0 +1,11 @@
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe.config
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.exe
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\bin\Debug\OtoparkOtomasyon.pdb
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form1.resources
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Properties.Resources.resources
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.GenerateResource.cache
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.exe
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.pdb
+C:\Users\Merhaba\source\repos\OtoparkOtomasyon\OtoparkOtomasyon\obj\Debug\OtoparkOtomasyon.Form2.resources
