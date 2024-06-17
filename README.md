@@ -3,6 +3,7 @@
  TR
 
 Otopark Araç Takip Sistemi
+
 Bu proje, bir otoparka ait araç takip sistemini yönetmek için geliştirilmiştir.
 Sistem, otoparkta bulunan araçların giriş-çıkış işlemlerini yönetmek, mevcut durumu 
 göstermek ve istatistiksel veriler sunmak amacıyla tasarlanmıştır.
@@ -53,6 +54,7 @@ CREATE TABLE Araclar (
 EN
 
 Parking Lot Vehicle Tracking System
+
 This project is developed to manage a vehicle tracking 
 system for a parking lot. The system is designed to handle 
 entry and exit operations of vehicles, display current status, and provide statistical data.
