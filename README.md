@@ -9,22 +9,36 @@ Sistem, otoparkta bulunan araçların giriş-çıkış işlemlerini yönetmek, m
 göstermek ve istatistiksel veriler sunmak amacıyla tasarlanmıştır.
 
 Özellikler
+
 Ana Veri: Araç
+
 Araç ID
+
 Araç Plakası
+
 Marka ve Model (Yabancı anahtar ile ilişkilendirilmiş)
+
 Giriş Tarihi
+
 Çıkış Tarihi
+
 İçerde Olup Olmama Durumu (İçerde/Dışarıda)
+
 
 Kullanılan Teknolojiler ve Teknik Detaylar
 
+
 Programlama Dili: C# (.NET Framework veya .NET Core)
+
 Veritabanı: Microsoft SQL Server
+
 ORM Kütüphanesi: Entity Framework (Code-First yaklaşımıyla veritabanı işlemleri yapılmıştır)
+
 Kullanıcı Arayüzü: Windows Forms veya WPF (Windows Presentation Foundation)
 
+
 Formlar
+
 
 Birinci Form: Ana Form
 Bu form, otoparkın genel durumunu gösterir ve kayıtların alınacağı/listeleneceği ana formdur.
@@ -60,17 +74,29 @@ system for a parking lot. The system is designed to handle
 entry and exit operations of vehicles, display current status, and provide statistical data.
 
 Features
+
 Main Entity: Vehicle
+
 Vehicle ID
+
 License Plate
+
 Make and Model (Linked with foreign key)
+
 Entry Date
+
 Exit Date
+
 Status (Inside/Outside)
+
 Technologies Used and Technical Details
+
 Programming Language: C# (.NET Framework or .NET Core)
+
 Database: Microsoft SQL Server
+
 ORM Framework: Entity Framework (Code-First approach for database operations)
+
 User Interface: Windows Forms or WPF (Windows Presentation Foundation)
 
 Forms
