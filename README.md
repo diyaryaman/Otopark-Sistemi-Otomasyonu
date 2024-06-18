@@ -56,13 +56,21 @@ Proje için kullanılan SQL veritabanı yapısı aşağıdaki gibidir:
 CREATE DATABASE Otopark;
 
 CREATE TABLE Araclar (
+
     AracID INT IDENTITY(1,1) PRIMARY KEY,
+    
     Plaka NVARCHAR(10) NOT NULL,
+    
     MarkaModel NVARCHAR(50) NOT NULL,
+    
     GirisTarihi DATETIME NOT NULL,
+    
     CikisTarihi DATETIME NULL,
+    
     Durum NVARCHAR(10) CHECK (Durum IN ('İçerde', 'Dışarıda')) NOT NULL
+    
 );
+
 
 
 EN
@@ -114,13 +122,23 @@ This form allows updating and editing of records.
 Database Schema
 Below is the SQL database schema used for the project:
 
+
 CREATE DATABASE Otopark;
 
-CREATE TABLE Araclar (
+
+CREATE TABLE Araclar 
+(
+
     AracID INT IDENTITY(1,1) PRIMARY KEY,
+    
     Plaka NVARCHAR(10) NOT NULL,
+    
     MarkaModel NVARCHAR(50) NOT NULL,
+    
     GirisTarihi DATETIME NOT NULL,
+    
     CikisTarihi DATETIME NULL,
+    
     Durum NVARCHAR(10) CHECK (Durum IN ('İçerde', 'Dışarıda')) NOT NULL
+    
 );
