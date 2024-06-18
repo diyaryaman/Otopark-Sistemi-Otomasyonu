@@ -55,7 +55,8 @@ Proje için kullanılan SQL veritabanı yapısı aşağıdaki gibidir:
 
 CREATE DATABASE Otopark;
 
-CREATE TABLE Araclar (
+CREATE TABLE Araclar 
+(
 
     AracID INT IDENTITY(1,1) PRIMARY KEY,
     
