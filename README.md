@@ -16,7 +16,7 @@ Araç ID
 
 Araç Plakası
 
-Marka ve Model (Yabancı anahtar ile ilişkilendirilmiş)
+Marka ve Model (Foreign Key)
 
 Giriş Tarihi
 
